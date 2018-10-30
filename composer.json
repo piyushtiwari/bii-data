@@ -1,5 +1,6 @@
 {
   "name":"piyushtiwari/bii-data",
+  "minimum-stability": "dev",
   "autoload":{
     "psr-4":{
       "BiiData\\":"src/"
